@@ -1,4 +1,5 @@
 # Contributors
+- [Pranay](https://github.com/Pranay1237)
 - [Kaushik Kumar Das](https://github.com/AlexWeb07)
 - [Slaven Pikija](https://github.com/spikija)
 - [Himanshu Gaur](https://github.com/Gaur2025)
